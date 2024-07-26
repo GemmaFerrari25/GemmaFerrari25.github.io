@@ -3,4 +3,4 @@
 - [https://www.reddit.com/user/Top-Zookeepergame504/](https://www.reddit.com/user/Top-Zookeepergame504/)
 - [https://x.com/GemmaFerrari25](https://x.com/GemmaFerrari25)
 - [https://yo.fan/gemmaferrari25](https://yo.fan/gemmaferrari25)
-- [https://GemmaFerrari25.github.io](https://GemmaFerrari25.github.io) 
+- [https://GemmaFerrari25.github.io](https://gemmaferrari25.github.io/) 
