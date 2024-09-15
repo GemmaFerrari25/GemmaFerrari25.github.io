@@ -4,12 +4,12 @@ var ad = document.createElement('div');
 // List of ads with URL, image source, and title
 var ads = [
     {
-        url: 'https://www.quora.com/profile/Gemma-Ferrari-1m',
+        url: 'https://www.quora.com/profile/Gemma-Ferrari-1',
         img: 'https://qph.cf2.quoracdn.net/main-thumb-2723536298-200-kkndpeaaeaqdxivqemcsnbnusfejisgf.jpeg',
         title: 'Gemma Ferrari Quora'
     },
     {
-        url: 'https://www.quora.com/profile/Gemma-Ferrari-1m',
+        url: 'https://www.quora.com/profile/Gemma-Ferrari-1',
         img: 'https://qph.cf2.quoracdn.net/main-thumb-2723536298-200-kkndpeaaeaqdxivqemcsnbnusfejisgf.jpeg',
         title: 'Gemma Ferrari Quora'
     }
