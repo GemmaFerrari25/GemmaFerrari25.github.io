@@ -9,14 +9,9 @@ var ads = [
         title: 'Gemma Ferrari Quora'
     },
     {
-        url: 'https://example-ad2.com',
-        img: 'https://example.com/ad-thumb2.jpg',
-        title: 'Ad Title 2'
-    },
-    {
-        url: 'https://example-ad3.com',
-        img: 'https://example.com/ad-thumb3.jpg',
-        title: 'Ad Title 3'
+        url: 'https://www.quora.com/profile/Gemma-Ferrari-1m',
+        img: 'https://qph.cf2.quoracdn.net/main-thumb-2723536298-200-kkndpeaaeaqdxivqemcsnbnusfejisgf.jpeg',
+        title: 'Gemma Ferrari Quora'
     }
 ];
 
@@ -26,7 +21,7 @@ ads.forEach(function(item) {
     adHTML += `
         <div style="display: flex; align-items: center; margin-bottom: 10px;">
             <a href="${item.url}" target="_blank" style="text-decoration: none; color: inherit; display: flex; align-items: center;">
-                <img src="${item.img}" alt="${item.title}" style="width: 120px; height: auto; margin-right: 10px;">
+                <img src="${item.img}" alt="${item.title}" style="width: 80px; height: auto; margin-right: 10px;">
                 <span>${item.title}</span>
             </a>
         </div>
