@@ -6,7 +6,7 @@ var ads = [
     {
         url: 'https://www.quora.com/profile/Gemma-Ferrari-1m',
         img: 'https://qph.cf2.quoracdn.net/main-thumb-2723536298-200-kkndpeaaeaqdxivqemcsnbnusfejisgf.jpeg',
-        title: 'Ad Title 1'
+        title: 'Gemma Ferrari Quora'
     },
     {
         url: 'https://example-ad2.com',
